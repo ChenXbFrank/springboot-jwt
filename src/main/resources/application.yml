@@ -1,0 +1,6 @@
+#项目配置
+server:
+  port: 8089
+  servlet:
+    # 项目路径
+    context-path: /cxb
